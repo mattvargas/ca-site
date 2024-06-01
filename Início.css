@@ -1,0 +1,183 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 899px;
+}
+
+.u-section-1 .u-shape-1 {
+  width: 1098px;
+  height: 382px;
+  background-image: none;
+  margin: 359px auto 0 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 565px;
+  height: 565px;
+  object-position: 100% 50%;
+  background-position: 50% 50%;
+  background-image: url("images/logo-cabana.png");
+  margin: -681px auto 0 80px;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 441px;
+  width: 609px;
+  margin: -191px 0 0 auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-text-1 {
+  letter-spacing: normal;
+  font-size: 3rem;
+  font-weight: 300;
+  margin: 46px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 1.125rem;
+  font-style: normal;
+  line-height: 1.8;
+  margin: 26px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  border-style: none;
+  font-weight: 700;
+  margin: 26px auto 0 0;
+  padding: 14px 34px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-shape-1 {
+    width: 880px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 540px;
+    margin-left: 60px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 544px;
+    margin-top: -142px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+
+  .u-section-1 .u-text-1 {
+    text-transform: none;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 875px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 347px;
+    width: 674px;
+    margin-top: 248px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 420px;
+    height: 420px;
+    margin-top: -535px;
+    margin-left: 55px;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 477px;
+    width: 477px;
+    margin-top: -82px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 787px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    height: 197px;
+    margin-top: 237px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 312px;
+    height: 312px;
+    margin-top: -374px;
+    margin-left: 16px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 412px;
+    margin-top: -62px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 759px;
+  }
+
+  .u-section-1 .u-shape-1 {
+    margin-top: 192px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 265px;
+    height: 265px;
+    margin-top: -343px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 478px;
+    width: 317px;
+    margin-top: -47px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.125rem;
+  }
+} .u-section-2 {
+  background-image: url("images/4c3ff13d7fc6296ed0cdd78c715fd402f3b351aace575f94ddcd13606b6973a979a9c3e4d4326c24a80ce1649e7ebacbc9e6555fbf903419854ce4_1280.jpg");
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 400px;
+}
+
+@media (max-width: 1199px) {
+   .u-section-2 {
+    background-position: 50% 50%;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 325px;
+  }
+}
